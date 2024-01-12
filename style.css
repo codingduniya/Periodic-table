@@ -1,0 +1,17 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+    padding-left: 82px;
+}
+abbr {
+    text-decoration: none;
+}
+
+td {
+    height: 15px;
+    width: 50px;
+}
+
+table {
+    margin: 30px;
+}
